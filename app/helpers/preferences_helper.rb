@@ -1,4 +1,4 @@
-module PreferencesHelper
+module Admin::PreferencesHelper
 
       
 end 
